@@ -48,14 +48,14 @@ margin:0 auto;
 #preamble,
 #supportingText,
 #quickSummary{
-width:650px;
+width:450px;
 float:right;
 clear:right;
 margin:20px 0 0 0;
 }
 
 #intro #pageHeader {
-	width:650px;
+	width:450px;
 	height:330px;
 	background:white url(images/image.jpg) no-repeat top center;
 	float:right;
