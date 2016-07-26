@@ -1,7 +1,7 @@
 body { 
 font:75%  Arial, Helvetica, sans-serif;
 color:#333; 
-background:#FDFDFD;
+background:red url(back.png) repeat-y top center;
 margin:0; 
 text-align:center; 
 }
