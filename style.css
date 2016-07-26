@@ -40,7 +40,7 @@ border-bottom:1px dotted #900;
 
 #container { 
 width:700px;
-text-align:right;
+text-align:left;
 padding:0;  
 margin:0 auto; 
 }
@@ -48,14 +48,14 @@ margin:0 auto;
 #preamble,
 #supportingText,
 #quickSummary{
-width:450px;
+width:650px;
 float:right;
 clear:right;
 margin:20px 0 0 0;
 }
 
 #intro #pageHeader {
-	width:550px;
+	width:650px;
 	height:330px;
 	background:white url(images/image.jpg) no-repeat top center;
 	float:right;
